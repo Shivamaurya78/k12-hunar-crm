@@ -31,6 +31,16 @@ A full-stack Customer Relationship Management (CRM) application built to collect
 - Vercel (Frontend)
 - GitHub
 
+## AI Tools & Assistance
+
+AI tools were used during the development process to support learning, problem-solving, debugging, and documentation.
+
+**Tools Used:**
+- **ChatGPT (OpenAI):** Used for understanding concepts, troubleshooting errors, reviewing implementation approaches, and improving project documentation.
+- **Claude (Anthropic):** Used for technical guidance, code-related suggestions, debugging assistance, and exploring implementation approaches.
+
+**Note:** AI tools were used as development assistants. The project implementation, integration, testing, and deployment were handled as part of the development process.
+
 ## Project Structure
 
 ```text
